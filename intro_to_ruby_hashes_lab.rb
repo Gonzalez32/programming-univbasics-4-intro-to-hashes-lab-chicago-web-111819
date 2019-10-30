@@ -3,7 +3,9 @@ def new_hash
 end
 
 def my_hash
-  
+  new_hash = {
+    key1: "value"
+  }
 end
 
 def pioneer
