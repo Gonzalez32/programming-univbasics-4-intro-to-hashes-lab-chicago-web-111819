@@ -3,8 +3,7 @@ def new_hash
 end
 
 def my_hash
-  hash = {pop => "Coke"}
-  hash
+  
 end
 
 def pioneer
